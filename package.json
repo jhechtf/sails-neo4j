@@ -1,0 +1,14 @@
+{
+  "name": "sails-neo4j",
+  "version": "0.0.0",
+  "description": "A waterline orm module",
+  "main": "server.js",
+  "license":"MIT",
+  "repository": "",
+  "author": "James Burbridge <jhechtf@gmail.com>",
+  "dependencies": {
+    "express": "^4.0.0",
+    "socket.io": "~0.9.14",
+    "waterline": "^0.11.11"
+  }
+}
